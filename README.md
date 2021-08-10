@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasanalay
-- 👀 I’m interested in android developing and cyber security
+- 👀 I’m interested in android developing and cyber security and Linux
 - 🌱 I’m currently learning Java Spring framework, MsSQL Server and Python
 - 📫 How to reach me linkedin.com: https://www.linkedin.com/in/hasan-alay-07a720188/
 <!---
