@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasanalay
-- 👀 I’m interested in Android Development, Machine Learning, AI and Cyber Security, 
+- 👀 I’m interested in Mobile App Development, Machine Learning and Cyber Security, 
 - 🌱 I’m currently learning Java Spring framework, MsSQL Server and Python
 - 📫 How to reach me linkedin.com: https://www.linkedin.com/in/hasan-alay-07a720188/
 <!---
