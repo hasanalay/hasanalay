@@ -1,5 +1,8 @@
-![messagif (1)](https://user-images.githubusercontent.com/68869814/150680347-b4452ce1-f2a7-4f56-8596-121acbc726ec.gif)
 
+<p align="center">
+  <img width="518" height="256" src="https://user-images.githubusercontent.com/68869814/150680461-3338824a-4013-4beb-b810-f3dfc446fa51.gif"
+>
+</p>
 
 
 
