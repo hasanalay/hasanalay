@@ -7,7 +7,7 @@
 
 
 - 👋 Hi, I’m @hasanalay
-- 👀 I’m interested in deep learning, machine learning and cybersecurity.
+- 👀 I’m interested in deep learning, machine learning , backend development and cybersecurity.
 - 📫 How to reach me linkedin.com: https://www.linkedin.com/in/hasan-alay-07a720188/
 <!---
 hasanalay/hasanalay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
