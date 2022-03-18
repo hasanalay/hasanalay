@@ -8,7 +8,7 @@
 <h3 align="left">A passionate CS student from Turkey</h3>
 
 
-<p align="left"> <a href="https://twitter.com/fromhasan_" target="blank"><img src="https://img.shields.io/twitter/follow/fromhasan_?logo=twitter&style=for-the-badge" alt="fromhasan_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fromhasan_" target="_blank"><img src="https://img.shields.io/twitter/follow/fromhasan_?logo=twitter&style=for-the-badge" alt="fromhasan_" /></a> </p>
 
 - 🔭 I’m currently working on [Django Website](https://github.com/hasanalay/Django-Website)
 
@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fromhasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fromhasan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasanalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanalay" height="30" width="40" /></a>
-<a href="https://kaggle.com/hasanalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasanalay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hsn_aly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hsn_aly" height="30" width="40" /></a>
+<a href="https://twitter.com/fromhasan_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fromhasan_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasanalay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanalay" height="30" width="40" /></a>
+<a href="https://kaggle.com/hasanalay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasanalay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hsn_aly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hsn_aly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
