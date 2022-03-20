@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="1000" height="450" src="https://user-images.githubusercontent.com/68869814/150680461-3338824a-4013-4beb-b810-f3dfc446fa51.gif"
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/68869814/150680461-3338824a-4013-4beb-b810-f3dfc446fa51.gif"
 >
 </p>
 
@@ -9,6 +9,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/fromhasan_" target="_blank"><img src="https://img.shields.io/twitter/follow/fromhasan_?logo=twitter&style=for-the-badge" alt="fromhasan_" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalay" /> </p>
 
 - 🔭 I’m currently working on [Django Website](https://github.com/hasanalay/Django-Website)
 
@@ -34,8 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalay&" alt="hasanalay" /></p><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalay" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanalay" alt="hasanalay" /></a> </p>
-
-
