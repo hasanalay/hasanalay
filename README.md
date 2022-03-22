@@ -1,7 +1,10 @@
 
-<p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/68869814/150680461-3338824a-4013-4beb-b810-f3dfc446fa51.gif"
->
+<p align="left">
+  <img width="900" height="400" src="https://user-images.githubusercontent.com/68869814/150680461-3338824a-4013-4beb-b810-f3dfc446fa51.gif">
+</p>
+
+<p aling="center">
+  <img src="https://user-images.githubusercontent.com/68869814/159473468-88db7749-40f4-412d-9ac7-b124e5424137.svg">
 </p>
 
 <h1 align="left">Hi 👋, I'm Hasan</h1>
@@ -36,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalay&" alt="hasanalay" /></p><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanalay" alt="hasanalay" /></a> </p>
+
