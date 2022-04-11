@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalay" /> </p>
 
-- 🔭 I’m currently working on [Django Website](https://github.com/hasanalay/Django-Website)
+- 🔭 I’m currently working on [30DaysOfAdvancedJava](https://github.com/hasanalay/30DaysOfAdvancedJava)
 
 - 🌱 I’m currently learning **Bootstrap, Flask, Django, HTML, CSS, Deep Learning with Tensorflow**
 
