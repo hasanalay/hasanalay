@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [SWE Ringtone Project](https://github.com/hasanalay/Ringtone-Project)
 
-- 🌱 I’m currently learning ** Swift, Django, Deep Learning, Natural LAnguage Processing**
+- 🌱 I’m currently learning **Swift, Django, Deep Learning, and Natural Language Processing**
 
 - 📫 How to reach me **hsn_aly@hotmail.com**
 
