@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img width="550" height="250" src="https://user-images.githubusercontent.com/68869814/159474849-8d09727b-e4fa-48f8-8225-33fc0dec7159.gif">
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/68869814/159474849-8d09727b-e4fa-48f8-8225-33fc0dec7159.gif">
 </p>
 
 
@@ -11,19 +11,19 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/1alayhasan" target="_blank"><img src="https://img.shields.io/twitter/follow/1alayhasan?logo=twitter&style=for-the-badge" alt="1alayhasan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hasanalay_" target="_blank"><img src="https://img.shields.io/twitter/follow/hasanalay_?logo=twitter&style=for-the-badge" alt="hasanalay_" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalay" /> </p>
 
-- 🔭 I’m currently working on [30DaysOfAdvancedJava](https://github.com/hasanalay/30DaysOfAdvancedJava)
+- 🔭 I’m currently working on [SWE Ringtone Project](https://github.com/hasanalay/Ringtone-Project)
 
-- 🌱 I’m currently learning **Bootstrap, Flask, Django, HTML, CSS, Deep Learning with Tensorflow**
+- 🌱 I’m currently learning ** Swift, Django, Deep Learning, Natural LAnguage Processing**
 
 - 📫 How to reach me **hsn_aly@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fromhasan_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fromhasan_" height="30" width="40" /></a>
+<a href="https://twitter.com/hasanalay_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanalay_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasanalay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanalay" height="30" width="40" /></a>
 <a href="https://kaggle.com/hasanalay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasanalay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hsn_aly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hsn_aly" height="30" width="40" /></a>
