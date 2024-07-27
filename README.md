@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hasan and I'm a Software Developer, from Türkiye 🇹🇷.</h2>
+<h2 align="center">Hi 👋! My name is Hasan and I'm a Software Developer, from Türkiye 🇹🇷.</h2>
 
 ###
 
@@ -11,11 +11,11 @@
 
 ###
 
-<p align="left">My Tech Stack</p>
+<p align="center">My Tech Stack:</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -53,17 +53,24 @@
 
 ###
 
-<p align="left">Socials</p>
+<p align="center"> My Socials:</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/hasanalay" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/hasanalay" target="_blank">
+  <a href="https://x.com/hasanalay_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hasanalay/hasanalay/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
@@ -71,11 +78,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/hasanalay/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hasanalay/hasanalay/output/snake.svg" alt="Snake animation" />
 
 ###
